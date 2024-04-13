@@ -9,11 +9,6 @@
 		
 	</div>
 
-	<nav>
-		
-		
-		
-	</nav>
 
 	<div class="corner">
 		
